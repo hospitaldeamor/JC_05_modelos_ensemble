@@ -25,15 +25,6 @@ Capacitar os participantes do **LIAAOnco** a:
 
 ---
 
-## **🛠️ Configuração e Instalação**
-### 🔹 **Pré-requisitos**  
-- **Python** (versão >= 3.8)  
-- **Bibliotecas necessárias**:
-  ```bash
-  pip install numpy pandas scikit-learn xgboost matplotlib seaborn
-
-  ---
-
 ## 🛠️ **Configuração e Instalação**
 
 ### Pré-requisitos:
@@ -47,7 +38,7 @@ Para executar os códigos da aula, você precisará ter instalado:
 ### Instalação:
 -  Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/JC_01_regressao.git
+   git clone https://github.com/seu-usuario/JC_05_modelos_ensemble.git
 ou <br>
 - Baixe a pasta .zip em seu computador
 
