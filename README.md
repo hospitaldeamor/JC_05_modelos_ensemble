@@ -54,7 +54,7 @@ ou <br>
 ### Como Executar a Aula no Google Colab: 
 Caso prefira rodar no Google Colab, basta abrir o notebook no ambiente e executar os blocos de código sequencialmente.
 
-🔗 Abrir no Google Colab (adicione o link do seu notebook)
+🔗 Abrir no Google Colab (https://colab.research.google.com/drive/1va7g903l2Tl0gmBL1gQb6e9ilOGxtmup?usp=sharing)
 
 ### Aproveitem! 🤖
 
