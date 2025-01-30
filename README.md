@@ -7,9 +7,10 @@ Este repositório contém os códigos e os dados utilizados na aula com o tema *
 
 ## **🎯 Objetivo**
 Capacitar os participantes do **LIAAOnco** a:  
-✅ Compreender e aplicar **modelos ensemble** para classificação de dados.  
-✅ Comparar o desempenho de **Random Forest, XGBoost e AdaBoost**.  
-✅ Avaliar a importância das variáveis no desempenho dos modelos.  
+✅ Compreender o conceito **modelos ensemble** para classificação e regressão 
+✅ Aplicar os **modelos Random Forest, XGBoost e AdaBoost*** em um banco de dados de saúde
+✅ Comparar o desempenho de **Random Forest, XGBoost e AdaBoost**
+✅ Avaliar a importância das variáveis no modelo de melhor desempenho 
 
 ---
 
@@ -63,5 +64,5 @@ Caso tenha dúvidas ou sugestões, entre em contato: <br>
 **E-mail:** alexia.siqueira@hospitaldeamor.com.br
 
 ## 📚 Material aula teórica
-[![Abrir Material no Canva](https://img.shields.io/badge/Canva-Abrir_Material-blue?style=for-the-badge&logo=canva)](https://www.canva.com/design/DAGXHINM0jU/nadDoUi4OcilT5aOBGL_TQ/view?utm_content=DAGXHINM0jU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[![Abrir Material no Canva](https://img.shields.io/badge/Canva-Abrir_Material-blue?style=for-the-badge&logo=canva)](https://www.canva.com/design/DAGXHINM0jU/nadDoUi4OcilT5aOBGL_TQ/view?utm_content=DAGXHINM0jU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha4d3aa6af6)
 
