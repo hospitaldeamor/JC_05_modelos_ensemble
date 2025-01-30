@@ -8,7 +8,7 @@ Este repositório contém os códigos e os dados utilizados na aula com o tema *
 ## **🎯 Objetivo**
 Capacitar os participantes do **LIAAOnco** a:  
 ✅ Compreender o conceito **modelos ensemble** para classificação e regressão <br>
-✅ Aplicar os **modelos Random Forest, XGBoost e AdaBoost*** em um banco de dados de saúde<br>
+✅ Aplicar os **modelos Random Forest, XGBoost e AdaBoost** em um banco de dados de saúde<br>
 ✅ Comparar o desempenho de **Random Forest, XGBoost e AdaBoost**<br>
 ✅ Avaliar a importância das variáveis no modelo de melhor desempenho <br>
 
